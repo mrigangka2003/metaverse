@@ -1036,6 +1036,10 @@ data-view-byte-offset@^1.0.0:
     es-errors "^1.3.0"
     is-data-view "^1.0.1"
 
+"db@file:/home/mrigangkadatta/Documents/codes/projects/metaverse-2d/metaverse/packages/db":
+  version "1.0.0"
+  resolved "file:packages/db"
+
 debug@^4.3.1, debug@^4.3.2, debug@^4.3.4, debug@4:
   version "4.3.7"
   resolved "https://registry.npmjs.org/debug/-/debug-4.3.7.tgz"
@@ -1882,6 +1886,7 @@ http-proxy-agent@^7.0.0, http-proxy-agent@^7.0.1:
   resolved "file:apps/http"
   dependencies:
     express "^4.21.2"
+    typescript "^5.7.2"
 
 https-proxy-agent@^7.0.3, https-proxy-agent@^7.0.5:
   version "7.0.5"
